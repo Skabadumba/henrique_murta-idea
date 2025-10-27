@@ -18,4 +18,15 @@ I found that it was made by 12 people using 4 programming languages. I do not ha
 link to it: [link](https://github.com/maehr/awesome-digital-history)
 
 
-baloney babuga
+     (()__(()
+     /       \ 
+    ( /    \  \
+     \ o o    /
+     (_()_)__/ \             
+    / _,==.____ \
+   (   |--|      )
+   /\_.|__|'-.__/\_
+  / (        /     \ 
+  \  \      (      /
+   )  '._____)    /    
+(((____.--(((____/mrf

@@ -2,7 +2,7 @@
 
 A scholarly compendium and curated index of resources dedicated to the field of digital history This repository serves as a methodological guide for academics, students, and cultural heritage professionals engaged in the critical application of digital tools to historical inquiry
 
-The collection systematically organizes essential resources that facilitate the reconstruction and analysis of the past through computational methods. It is structured to support both the theoretical and practical dimensions of the discipline, providing a foundation for rigorous digital scholarship.
+The collection systematically organizes essential resources that facilitate the reconstruction and analysis of the past through computational methods. It is structured to support both the theoretical and practical dimensions of the discipline, providing a foundation for rigorous digital scholarship. bbbb
 
 Contained within this repository is a vetted selection of:
 
